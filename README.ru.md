@@ -1,21 +1,15 @@
-<p align="center">
-  <img src="assets/logo.png" width="88" alt="Multitool">
-</p>
+![Multitool](assets/icon.png)
 
-<h1 align="center">Multitool Ads — MCP-сервер для Meta Ads</h1>
+# Multitool Ads — MCP-сервер для Meta Ads
 
-<p align="center">
-  Подключите Claude, ChatGPT, Codex, Cursor, VS Code, Gemini CLI, Antigravity, OpenCode или любой
-  MCP-клиент ко всем своим рекламным кабинетам Meta.
-</p>
+Подключите Claude, ChatGPT, Codex, Cursor, VS Code, Gemini CLI, Antigravity, OpenCode или любой
+MCP-клиент ко всем своим рекламным кабинетам Meta.
 
-<p align="center">
-  <a href="https://cursor.com/install-mcp?name=multitool&config=eyJ1cmwiOiJodHRwczovL21jcC5tdWx0aXRvb2xzLnByby9tY3AifQ%3D%3D"><img src="https://cursor.com/deeplink/mcp-install-dark.svg" alt="Add to Cursor" height="32"></a>
-  <a href="https://vscode.dev/redirect/mcp/install?name=multitool&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.multitools.pro%2Fmcp%22%7D"><img src="https://img.shields.io/badge/VS_Code-Install_server-0098FF?style=for-the-badge" alt="Install in VS Code" height="32"></a>
-  <a href="https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Multitool%20Ads&connectorUrl=https%3A%2F%2Fmcp.multitools.pro%2Fmcp"><img src="https://img.shields.io/badge/Claude-Add_connector-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Add to Claude" height="32"></a>
-</p>
+[![Add to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=multitool&config=eyJ1cmwiOiJodHRwczovL21jcC5tdWx0aXRvb2xzLnByby9tY3AifQ%3D%3D)
+[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_server-0098FF?style=for-the-badge)](https://vscode.dev/redirect/mcp/install?name=multitool&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.multitools.pro%2Fmcp%22%7D)
+[![Add to Claude](https://img.shields.io/badge/Claude-Add_connector-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Multitool%20Ads&connectorUrl=https%3A%2F%2Fmcp.multitools.pro%2Fmcp)
 
-<p align="center"><a href="README.md">English version</a></p>
+[English version](README.md)
 
 ---
 
