@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "pro.multitools/mcp",
+  "title": "Multitool Ads",
+  "description": "Meta Ads for media buyers: spend, results and creatives across all ad accounts, safe edits.",
+  "version": "1.0.0",
+  "websiteUrl": "https://github.com/multitool-ads/mcp",
+  "repository": {
+    "url": "https://github.com/multitool-ads/mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/multitool-ads/mcp/main/assets/logo.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.multitools.pro/mcp"
+    }
+  ]
+}

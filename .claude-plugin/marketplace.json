@@ -1,0 +1,17 @@
+{
+  "name": "multitool-ads",
+  "description": "Official Multitool plugins: Meta Ads for media buyers.",
+  "owner": {
+    "name": "Multitool",
+    "email": "support@multitools.pro",
+    "url": "https://multitools.pro"
+  },
+  "plugins": [
+    {
+      "name": "multitool",
+      "source": "./",
+      "description": "Meta Ads for media buyers: spend, results and creatives across all your ad accounts, plus pause, resume, budget and creative changes with a preview before anything reaches Meta.",
+      "category": "productivity"
+    }
+  ]
+}

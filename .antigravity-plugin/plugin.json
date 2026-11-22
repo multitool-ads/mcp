@@ -1,0 +1,15 @@
+{
+  "name": "multitool",
+  "displayName": "Multitool Ads",
+  "description": "Meta Ads for media buyers: spend, results and creatives across all your ad accounts, plus pause, resume, budget and creative changes with a preview before anything reaches Meta.",
+  "version": "1.0.0",
+  "logo": "assets/logo.png",
+  "author": { "name": "Multitool", "url": "https://multitools.pro" },
+  "homepage": "https://multitools.pro",
+  "repository": "https://github.com/multitool-ads/mcp",
+  "suggestedPrompts": [
+    "Show today's spend and results across all my ad accounts",
+    "Which campaigns spent more than $50 today with no results?",
+    "Rank my creatives by cost per result over the last 7 days"
+  ]
+}

@@ -1,15 +1,55 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "multitool",
-  "displayName": "Multitool",
-  "description": "Meta Ads for media buyers: spend, results and creatives across all your ad accounts, plus pause, resume, budget and creative changes with a preview before anything reaches Meta.",
   "version": "1.0.0",
-  "logo": "assets/logo.png",
-  "author": { "name": "Multitool", "url": "https://multitools.pro" },
+  "description": "Meta Ads for media buyers: spend, results and creatives across all your ad accounts, plus pause, resume, budget and creative changes with a preview before anything reaches Meta.",
+  "author": {
+    "name": "Multitool",
+    "email": "support@multitools.pro",
+    "url": "https://multitools.pro"
+  },
   "homepage": "https://multitools.pro",
   "repository": "https://github.com/multitool-ads/mcp",
-  "suggestedPrompts": [
-    "Show today's spend and results across all my ad accounts",
-    "Which campaigns spent more than $50 today with no results?",
-    "Rank my creatives by cost per result over the last 7 days"
-  ]
+  "license": "MIT",
+  "keywords": [
+    "meta-ads",
+    "facebook-ads",
+    "instagram-ads",
+    "media-buying",
+    "advertising",
+    "mcp"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Multitool Ads",
+        "shortDescription": "Meta Ads in every ad account",
+        "longDescription": "Multitool Ads connects your Multitool workspace: Meta ad accounts across many Facebook profiles, with campaigns, ad sets, ads and creatives. Ask for spend, results, cost per result and delivery problems across all accounts at once, rank campaigns and creatives, and see why an ad is not delivering. You can also pause, resume, rename, change budgets and swap creatives: every change is previewed first and is sent to Meta only after you confirm it. Built for media buyers and agencies who run dozens of ad accounts. Requires a Multitool account with your Facebook profiles connected; Multitool only sees the ad accounts those profiles can access.",
+        "developerName": "Multitool",
+        "category": "Productivity",
+        "capabilities": [
+          "Read spend, results and cost per result across ad accounts",
+          "Rank campaigns, ad sets, ads and creatives",
+          "Explain why ads are not delivering",
+          "Pause, resume, rename and change budgets with a preview",
+          "Swap ad creatives with a preview"
+        ],
+        "websiteURL": "https://multitools.pro",
+        "supportURL": "https://multitools.pro",
+        "privacyPolicyURL": "https://multitools.pro/privacy",
+        "termsOfServiceURL": "https://multitools.pro/terms",
+        "defaultPrompt": [
+          "Show today's spend and results across all my ad accounts",
+          "Which campaigns spent more than $50 today with no results?",
+          "Rank my creatives by cost per result over the last 7 days"
+        ],
+        "brandColor": "#000000",
+        "brandColorDark": "#FFFFFF",
+        "composerIcon": "./assets/icon.png",
+        "composerIconDark": "./assets/icon-dark.png",
+        "logo": "./assets/logo.png",
+        "logoDark": "./assets/logo-dark.png"
+      }
+    }
+  }
 }

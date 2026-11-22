@@ -1,0 +1,20 @@
+{
+  "name": "multitool",
+  "displayName": "Multitool Ads",
+  "version": "1.0.0",
+  "description": "Meta Ads for media buyers: spend, results and creatives across all your ad accounts, plus pause, resume, budget and creative changes with a preview before anything reaches Meta.",
+  "author": {
+    "name": "Multitool",
+    "email": "support@multitools.pro",
+    "url": "https://multitools.pro"
+  },
+  "homepage": "https://multitools.pro",
+  "repository": "https://github.com/multitool-ads/mcp",
+  "license": "MIT",
+  "keywords": ["meta-ads", "facebook-ads", "instagram-ads", "media-buying", "advertising", "mcp"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://github.com/multitool-ads/mcp#readme",
+  "supportUrl": "https://multitools.pro",
+  "privacyPolicyUrl": "https://multitools.pro/privacy",
+  "termsOfServiceUrl": "https://multitools.pro/terms"
+}
